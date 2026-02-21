@@ -4,6 +4,8 @@
 #include <stdlib.h>
 #include <math.h>
 
+#define pi 3.14
+
 #ifndef HEADER_H
 #define HEADER_H
 
