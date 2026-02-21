@@ -5,7 +5,6 @@ int rand_num(void)
 	return rand() % 10 + 1; // Picks a random number from 1-10
 }
 
-//void sentences(char adjective, char noun, char verb, int n)
 void sentences(char adjective[15], char noun[15], char verb[15], int n)
 {
 	if (n == 1)
@@ -45,7 +44,7 @@ void sentences(char adjective[15], char noun[15], char verb[15], int n)
 
 	else if (n == 8)
 	{
-		printf("My extremely %s best friend’s %s loves to loudly %s at midnight.\n", adjective, noun, verb);
+		printf("My extremely %s best friend's %s loves to loudly %s at midnight.\n", adjective, noun, verb);
 	}
 
 	else if (n == 9)

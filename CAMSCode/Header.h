@@ -10,7 +10,6 @@
 
 int rand_num(void);
 
-//void sentences(char adjective, char noun, char verb, int n);
 void sentences(char adjective[15], char noun[15], char verb[15], int n);
 
 #endif

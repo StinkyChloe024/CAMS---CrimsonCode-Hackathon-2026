@@ -16,6 +16,8 @@ int main(void)
 	printf("\nEnter a verb (present tense): ");
 	scanf("%s", &verb);
 
+	srand((unsigned)time(NULL)); // needed to prevent rand_num() from generating the same number each time
+
 	n = rand_num();
 
 	sentences(adjective, noun, verb, n);
