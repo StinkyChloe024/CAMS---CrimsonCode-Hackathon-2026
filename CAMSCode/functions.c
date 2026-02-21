@@ -34,26 +34,26 @@ void sentences(char adjective, char noun, char verb, int n)
 
 	else if (n == 6)
 	{
-		
+		printf("A very %s %s learned how to %s while wearing pajamas.");
 	}
 
 	else if (n == 7)
 	{
-
+		printf("A very %s and slightly confused %s tried to %s on the roof.");
 	}
 
 	else if (n == 8)
 	{
-
+		printf("My extremely %s best friend’s %s loves to loudly %s at midnight");
 	}
 
 	else if (n == 9)
 	{
-
+		printf("One ridiculously %s purple %s refused to %s in public.");
 	}
 
 	else
 	{
-
+		printf("The surprisingly %s dancing %s attempted to %s in the library.");
 	}
 }

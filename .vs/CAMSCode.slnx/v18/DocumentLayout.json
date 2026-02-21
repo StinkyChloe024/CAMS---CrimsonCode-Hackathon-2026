@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\megha\\OneDrive\\Desktop\\Hackathon\\CAMS---CrimsonCode-Hackathon-2026\\",
+  "WorkspaceRootPath": "C:\\Users\\Andrea\\OneDrive\\Documents\\GitHub\\CAMS---CrimsonCode-Hackathon-2026\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D77D05C1-4F5C-491E-B69B-5F78E2137653}|CAMSCode\\CAMSCode.vcxproj|C:\\Users\\megha\\OneDrive\\Desktop\\Hackathon\\CAMS---CrimsonCode-Hackathon-2026\\CAMSCode\\functions.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D77D05C1-4F5C-491E-B69B-5F78E2137653}|CAMSCode\\CAMSCode.vcxproj|C:\\Users\\Andrea\\OneDrive\\Documents\\GitHub\\CAMS---CrimsonCode-Hackathon-2026\\CAMSCode\\functions.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D77D05C1-4F5C-491E-B69B-5F78E2137653}|CAMSCode\\CAMSCode.vcxproj|solutionrelative:CAMSCode\\functions.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D77D05C1-4F5C-491E-B69B-5F78E2137653}|CAMSCode\\CAMSCode.vcxproj|C:\\Users\\megha\\OneDrive\\Desktop\\Hackathon\\CAMS---CrimsonCode-Hackathon-2026\\CAMSCode\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D77D05C1-4F5C-491E-B69B-5F78E2137653}|CAMSCode\\CAMSCode.vcxproj|C:\\Users\\Andrea\\OneDrive\\Documents\\GitHub\\CAMS---CrimsonCode-Hackathon-2026\\CAMSCode\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D77D05C1-4F5C-491E-B69B-5F78E2137653}|CAMSCode\\CAMSCode.vcxproj|solutionrelative:CAMSCode\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D77D05C1-4F5C-491E-B69B-5F78E2137653}|CAMSCode\\CAMSCode.vcxproj|C:\\Users\\megha\\OneDrive\\Desktop\\Hackathon\\CAMS---CrimsonCode-Hackathon-2026\\CAMSCode\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D77D05C1-4F5C-491E-B69B-5F78E2137653}|CAMSCode\\CAMSCode.vcxproj|C:\\Users\\Andrea\\OneDrive\\Documents\\GitHub\\CAMS---CrimsonCode-Hackathon-2026\\CAMSCode\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D77D05C1-4F5C-491E-B69B-5F78E2137653}|CAMSCode\\CAMSCode.vcxproj|solutionrelative:CAMSCode\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -22,19 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Header.h",
-              "DocumentMoniker": "C:\\Users\\megha\\OneDrive\\Desktop\\Hackathon\\CAMS---CrimsonCode-Hackathon-2026\\CAMSCode\\Header.h",
+              "DocumentMoniker": "C:\\Users\\Andrea\\OneDrive\\Documents\\GitHub\\CAMS---CrimsonCode-Hackathon-2026\\CAMSCode\\Header.h",
               "RelativeDocumentMoniker": "CAMSCode\\Header.h",
-              "ToolTip": "C:\\Users\\megha\\OneDrive\\Desktop\\Hackathon\\CAMS---CrimsonCode-Hackathon-2026\\CAMSCode\\Header.h",
+              "ToolTip": "C:\\Users\\Andrea\\OneDrive\\Documents\\GitHub\\CAMS---CrimsonCode-Hackathon-2026\\CAMSCode\\Header.h",
               "RelativeToolTip": "CAMSCode\\Header.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -44,24 +40,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\megha\\OneDrive\\Desktop\\Hackathon\\CAMS---CrimsonCode-Hackathon-2026\\CAMSCode\\main.c",
+              "DocumentMoniker": "C:\\Users\\Andrea\\OneDrive\\Documents\\GitHub\\CAMS---CrimsonCode-Hackathon-2026\\CAMSCode\\main.c",
               "RelativeDocumentMoniker": "CAMSCode\\main.c",
-              "ToolTip": "C:\\Users\\megha\\OneDrive\\Desktop\\Hackathon\\CAMS---CrimsonCode-Hackathon-2026\\CAMSCode\\main.c",
+              "ToolTip": "C:\\Users\\Andrea\\OneDrive\\Documents\\GitHub\\CAMS---CrimsonCode-Hackathon-2026\\CAMSCode\\main.c",
               "RelativeToolTip": "CAMSCode\\main.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-02-21T21:45:51.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-21T21:45:51.834Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "functions.c",
-              "DocumentMoniker": "C:\\Users\\megha\\OneDrive\\Desktop\\Hackathon\\CAMS---CrimsonCode-Hackathon-2026\\CAMSCode\\functions.c",
+              "DocumentMoniker": "C:\\Users\\Andrea\\OneDrive\\Documents\\GitHub\\CAMS---CrimsonCode-Hackathon-2026\\CAMSCode\\functions.c",
               "RelativeDocumentMoniker": "CAMSCode\\functions.c",
-              "ToolTip": "C:\\Users\\megha\\OneDrive\\Desktop\\Hackathon\\CAMS---CrimsonCode-Hackathon-2026\\CAMSCode\\functions.c",
+              "ToolTip": "C:\\Users\\Andrea\\OneDrive\\Documents\\GitHub\\CAMS---CrimsonCode-Hackathon-2026\\CAMSCode\\functions.c",
               "RelativeToolTip": "CAMSCode\\functions.c",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-02-21T22:03:08.8Z",
               "EditorCaption": ""
