@@ -36,9 +36,10 @@
               "RelativeDocumentMoniker": "CAMSCode\\Header.h",
               "ToolTip": "C:\\Users\\chloc\\Documents\\GitHub\\CAMS---CrimsonCode-Hackathon-2026\\CAMSCode\\Header.h",
               "RelativeToolTip": "CAMSCode\\Header.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-21T22:00:39.691Z"
+              "WhenOpened": "2026-02-21T22:00:39.691Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -46,9 +47,9 @@
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\chloc\\Documents\\GitHub\\CAMS---CrimsonCode-Hackathon-2026\\CAMSCode\\main.c",
               "RelativeDocumentMoniker": "CAMSCode\\main.c",
-              "ToolTip": "C:\\Users\\chloc\\Documents\\GitHub\\CAMS---CrimsonCode-Hackathon-2026\\CAMSCode\\main.c*",
-              "RelativeToolTip": "CAMSCode\\main.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\chloc\\Documents\\GitHub\\CAMS---CrimsonCode-Hackathon-2026\\CAMSCode\\main.c",
+              "RelativeToolTip": "CAMSCode\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-02-21T21:45:51.834Z",
               "EditorCaption": ""
@@ -61,9 +62,10 @@
               "RelativeDocumentMoniker": "CAMSCode\\functions.c",
               "ToolTip": "C:\\Users\\chloc\\Documents\\GitHub\\CAMS---CrimsonCode-Hackathon-2026\\CAMSCode\\functions.c",
               "RelativeToolTip": "CAMSCode\\functions.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-02-21T22:03:08.8Z"
+              "WhenOpened": "2026-02-21T22:03:08.8Z",
+              "EditorCaption": ""
             }
           ]
         },

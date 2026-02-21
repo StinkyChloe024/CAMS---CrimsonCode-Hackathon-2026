@@ -21,4 +21,9 @@ int main(void)
 	sentences(adjective, noun, verb, n);
 
 	return 0;
+
+	
+
+
+
 }
