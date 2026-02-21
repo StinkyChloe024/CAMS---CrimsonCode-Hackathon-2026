@@ -2,13 +2,14 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include <math.h>
-
-#define pi 3.14
+#include <string.h>
+#include <time.h>
 
 #ifndef HEADER_H
 #define HEADER_H
 
+int rand_num(void);
 
+void sentences(char adjective, char noun, char verb, int n);
 
 #endif

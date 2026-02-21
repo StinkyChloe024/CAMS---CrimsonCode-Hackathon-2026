@@ -2,21 +2,23 @@
 
 int main(void) 
 {
-	char name[15] = { '\0' };
-	double radius = 0,
-		   area = 0;
+	char adjective[15] = "",
+		 noun[15] = "",
+		 verb[15] = "";
+	int n = 0;
 
-	printf("Welcome to the Game of the Wheel!1\n");
+	printf("Enter an adjective: ");
+	scanf("%s", &adjective);
 
-	printf("What is your name: ");
-	scanf("%s", &name);
+	printf("\nEnter a noun: ");
+	scanf("%s", &noun);
 
-	printf("Welcome, %s, to the game!\n", name);
+	printf("\nEnter a verb: ");
+	scanf("%s", &verb);
 
-	printf("What is the radius of the circle: ");
-	scanf(" %lf", &radius);
+	n = rand_num();
 
-	area = pi * radius * radius;
+	sentences(adjective, noun, verb, n);
 
-
+	return 0;
 }
