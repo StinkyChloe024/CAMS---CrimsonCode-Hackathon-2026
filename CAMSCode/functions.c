@@ -25,7 +25,7 @@ void sentences(char adjective[15], char noun[15], char verb[15], int n)
 
 	else if (n == 4)
 	{
-		printf("Yesterday, I wore my %s shoes, grabbed a %s, and decided to %s with my friends.\n", adjective, noun, verb);
+		printf("Today, I wore my %s shoes, grabbed a %s, and decided to %s with my friends.\n", adjective, noun, verb);
 	}
 
 	else if (n == 5)
