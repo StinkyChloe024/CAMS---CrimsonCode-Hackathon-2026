@@ -7,13 +7,13 @@ int main(void)
 		 verb[15] = "";
 	int n = 0;
 
-	printf("Enter an adjective: ");
+	printf("Enter an adjective (past tense): ");
 	scanf("%s", &adjective);
 
-	printf("\nEnter a noun: ");
+	printf("\nEnter a noun (past tense): ");
 	scanf("%s", &noun);
 
-	printf("\nEnter a verb: ");
+	printf("\nEnter a verb (past tense): ");
 	scanf("%s", &verb);
 
 	n = rand_num();
@@ -21,9 +21,4 @@ int main(void)
 	sentences(adjective, noun, verb, n);
 
 	return 0;
-
-	
-
-
-
 }
