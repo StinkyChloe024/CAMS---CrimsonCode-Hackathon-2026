@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andrea\\OneDrive\\Documents\\GitHub\\CAMS---CrimsonCode-Hackathon-2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D77D05C1-4F5C-491E-B69B-5F78E2137653}|CAMSCode\\CAMSCode.vcxproj|C:\\Users\\Andrea\\OneDrive\\Documents\\GitHub\\CAMS---CrimsonCode-Hackathon-2026\\CAMSCode\\text.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D77D05C1-4F5C-491E-B69B-5F78E2137653}|CAMSCode\\CAMSCode.vcxproj|solutionrelative:CAMSCode\\text.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77D05C1-4F5C-491E-B69B-5F78E2137653}|CAMSCode\\CAMSCode.vcxproj|C:\\Users\\Andrea\\OneDrive\\Documents\\GitHub\\CAMS---CrimsonCode-Hackathon-2026\\CAMSCode\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D77D05C1-4F5C-491E-B69B-5F78E2137653}|CAMSCode\\CAMSCode.vcxproj|solutionrelative:CAMSCode\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "text.txt",
+              "DocumentMoniker": "C:\\Users\\Andrea\\OneDrive\\Documents\\GitHub\\CAMS---CrimsonCode-Hackathon-2026\\CAMSCode\\text.txt",
+              "RelativeDocumentMoniker": "CAMSCode\\text.txt",
+              "ToolTip": "C:\\Users\\Andrea\\OneDrive\\Documents\\GitHub\\CAMS---CrimsonCode-Hackathon-2026\\CAMSCode\\text.txt",
+              "RelativeToolTip": "CAMSCode\\text.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-21T21:47:36.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Andrea\\OneDrive\\Documents\\GitHub\\CAMS---CrimsonCode-Hackathon-2026\\CAMSCode\\main.c",
+              "RelativeDocumentMoniker": "CAMSCode\\main.c",
+              "ToolTip": "C:\\Users\\Andrea\\OneDrive\\Documents\\GitHub\\CAMS---CrimsonCode-Hackathon-2026\\CAMSCode\\main.c",
+              "RelativeToolTip": "CAMSCode\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-21T21:45:51.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 914,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

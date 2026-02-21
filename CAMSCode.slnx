@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="CAMSCode/CAMSCode.vcxproj" />
+  <Project Path="CAMSCode/CAMSCode.vcxproj" Id="d77d05c1-4f5c-491e-b69b-5f78e2137653" />
 </Solution>
